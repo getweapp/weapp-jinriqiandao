@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#567",
+    "navigationBarTitleText": "今日签到",
+    "navigationBarTextStyle":"light"
+  }
+}
